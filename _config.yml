@@ -1,0 +1,94 @@
+version: 2
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+repository: smilorent/gh-pages-resume
+remote_theme: sproogen/resume-theme
+favicon: images/favicon.ico
+
+name: Silviu Lorenț
+title: Systems Engineer
+email: silviu@lorent.ro
+website: https://lorent.ro
+
+darkmode: false
+
+github_username: smilorent
+linkedin_username: silviu-lorent
+
+about_title: Introduction
+about_profile_image: images/profile.jpg
+about_content: |
+  Hello there, wanderer, and welcome to my humble abode.
+  
+  I am Silviu Lorenț, a 24-year-old graduate of Systems Engineering hailing from the gloomy but uniquely charming city of Bucharest, Romania. Early on in my life, I discovered my passion for technology and the digital world, which led me on a mission to learn as much as I could about what makes it all tick. This passion has been a driving force in my life ever since, and it has shaped me into the person I am today.
+
+  At present, I am looking to expand my skillset and gain valuable experience as a developer. To this end, I am actively seeking new opportunities to grow and develop as a <mark>Software Engineer</mark>, <mark>Back End Developer</mark>, or <mark>Full Stack Developer</mark>.
+
+  If you believe that I would be a good fit for your team, please do not hesitate to reach out to me. I am always open to new opportunities and I would love to hear from you!
+
+content:
+  - title: Experience
+    layout: list
+    content:
+      - layout: right
+        title: IBM
+        sub_title: Data Engineer
+        caption: July 2021 - Present
+        link: ibm.com
+        quote: IBM is a leading global technology company, renowned for providing innovative solutions in areas like artificial intelligence, cloud computing, cybersecurity, and data analytics to businesses across various industries.
+        description: |
+          As a Data Engineer in the Data Platform Services practice, I leveraged my technical expertise to drive success for a key client in the automotive finance industry.
+
+          - **Engaged in the creation of data integration workflows aimed at an on-premises operational data store.** This involved architecting ETL workflows using Informatica PowerCenter and Oracle SQL, and enhancing existing bash scripts while innovating new ones for tasks such as data extraction, file transfers and credentials management.
+
+          - **Contributed to the development of a data integration service running on Amazon Web Services.** My tasks encompassed modularizing cloud infrastructure using Terraform, authoring Spark SQL code, and developing a specialized Python library. This library was designed for performing targeted deployments of individual ETL jobs, with the purpose of future integration into a comprehensive ETL job testing framework. In addition, I authored documentation with the goal of streamlining the technical onboarding process for new team members.
+
+          - **Played a pivotal role in the migration of several virtual servers running business-critical applications from Xen to VMware.** This entailed refining and innovating bash scripts for migration testing, configuration updates, and file transfers, all leading to a successful zero-downtime migration.
+
+          - **Gained valuable exposure to the client's systems during visits to their Central European headquarters,** where I delved into their architecture, understood projected timelines, and got a glimpse of future initiatives. These insights played a crucial role in aligning my work with the client's strategic goals.
+
+  - title: Education
+    layout: list
+    content:
+      - layout: left
+        title: TUCEB
+        sub_title: Bachelor's in Systems Engineering
+        caption: October 2017 - July 2021
+        link: utcb.ro
+        quote: The Technical University of Civil Engineering of Bucharest is a prestigious Romanian university specializing in civil engineering and related disciplines, offering an academically rigorous environment that fosters innovation and technological advancement.
+        description: |
+          Graduating as valedictorian from TUCEB in Systems Engineering in 2021, I achieved the highest ranking in a class of 46 students. In tandem, I completed the first level psychopedagogical module, through which I acquired the necessary qualifications to teach up to the 10th grade in the Romanian compulsory pre-university education system.
+
+  - title: Certifications
+    layout: list
+    content:
+      - layout: top-middle
+        title: Oracle Database SQL Certified Associate
+        sub_title: "Exam Code: <mark>1Z0-071</mark> — Credential ID: <mark>294665316OCASQL12C</mark>"
+        caption: issued by Oracle in August 2022
+        quote: |
+          The Oracle Database SQL Certified Associate certification validates proficiency in SQL database management, a cornerstone skill in the IT industry. This esteemed credential demonstrates a comprehensive understanding of relational databases, data modeling concepts, and using SQL to create and manipulate tables in an Oracle Database.
+
+      - layout: top-middle
+        title: AWS Certified Cloud Practitioner
+        sub_title: "Exam Code: <mark>CLF-C01</mark> — Credential ID: <mark>HL1SED8BMFR1Q1WK</mark>"
+        caption: issued by Amazon Web Services in February 2022
+        quote: |
+          The AWS Certified Cloud Practitioner certification demonstrates a foundational understanding of the Amazon Web Services platform. This globally recognized credential attests to an individual's ability to define cloud architecture, basic security and compliance aspects, as well as understanding core deployment and operational principles.
+
+      - layout: top-middle
+        title: LPI Linux Essentials
+        sub_title: "Exam Code: <mark>LE-1</mark> — Credential ID: <mark>FWY7M27K8J</mark>"
+        caption: issued by Linux Professional Institute in July 2020
+        quote: |
+          The LPI Linux Essentials certification is a respected credential that demonstrates a foundational understanding of the Linux operating system. It showcases proficiency in open-source licensing, the basics of Linux command line operations, and the fundamentals of scripting, security, and system administration in a Linux environment.
+
+      - layout: top-middle
+        title: Certificate in Advanced English
+        sub_title: "Exam Code: <mark>CAE</mark> — Credential ID: <mark>174RO0015013</mark>" 
+        caption: issued by Cambridge Assessment English in April 2017
+        quote: |
+          The Certificate in Advanced English is a globally recognized credential that certifies advanced proficiency in the English language. Achieving a C2 level in this certification denotes a level of mastery akin to that of a highly proficient native speaker, encompassing the ability to communicate fluently, precisely, and effectively in complex academic, professional, and social situations.
