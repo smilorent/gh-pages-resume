@@ -25,7 +25,7 @@ about_content: |
   
   I am Silviu Lorenț, a 24-year-old graduate of Systems Engineering hailing from the gloomy but uniquely charming city of Bucharest, Romania. Early on in my life, I discovered my passion for technology and the digital world, which led me on a mission to learn as much as I could about what makes it all tick. This passion has been a driving force in my life ever since, and it has shaped me into the person I am today.
 
-  At present, I am looking to expand my skillset and gain valuable experience as a developer. To this end, I am actively seeking new opportunities to grow and develop as a <mark>Software Engineer</mark>, <mark>Back End Developer</mark>, or <mark>Full Stack Developer</mark>.
+  At present, I am looking to expand my skillset and gain valuable experience as a developer. To this end, I am actively seeking new opportunities to grow and develop as a <mark>Software Engineer</mark>, <mark>Back End Developer</mark> or similar.
 
   If you believe that I would be a good fit for your team, please do not hesitate to reach out to me. I am always open to new opportunities and I would love to hear from you!
 
@@ -36,7 +36,7 @@ content:
       - layout: right
         title: IBM
         sub_title: Data Engineer
-        caption: July 2021 - Present
+        caption: July 2021 - September 2023
         link: ibm.com
         quote: IBM is a leading global technology company, renowned for providing innovative solutions in areas like artificial intelligence, cloud computing, cybersecurity, and data analytics to businesses across various industries.
         description: |
