@@ -7,9 +7,9 @@ This repository contains the source code for my resume, which is hosted on GitHu
 1. Install Ruby and Jekyll:
 
 ```bash
-sudo apt install ruby-full build-essential zlib1g-dev
-echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
-echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
+sudo apt install ruby-full ruby-bundler build-essential zlib1g-dev
+echo '# Install Ruby Gems to ~/.gems' >> ~/.bashrc
+echo 'export GEM_HOME="$HOME/.gems"' >> ~/.bashrc
 ```
 
 The instructions above are for Ubuntu and other Debian-based distributions. For other operating systems, please refer to the [Jekyll installation guide](https://jekyllrb.com/docs/installation/).
